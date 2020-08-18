@@ -1,0 +1,73 @@
+{
+    "items":
+    [
+        {
+            "key":"totalCoinLabel",
+            "value":"ﺎﻫ ﻪﮑﺳ"
+        },
+        {
+            "key":"highScoreLabel",
+            "value":"زﺎﯿﺘﻣﺍ ﻦﯾﺮﺗﺎﻟﺎﺑ"
+        },
+        {
+            "key":"languageLabel",
+            "value":"ﻥﺎﺑﺯ"
+        },
+        {
+            "key":"exit",
+            "value":"جﻭﺮﺧ"
+        },
+        {
+            "key":"quit",
+            "value":"ﺝﻭﺮﺧ"
+        },
+        {
+            "key":"start",
+            "value":"ﯼﺯﺎﺑ ﻉﻭﺮﺷ"
+        },
+        {
+            "key":"setting",
+            "value":"ﺕﺎﻤﯿﻈﻨﺗ"
+        },
+        {
+            "key":"soundLabel",
+            "value":"اﺪﺻ"
+        },
+        {
+            "key":"on",
+            "value":"ﻦﺷﻭﺭ"
+        },
+        {
+            "key":"off",
+            "value":"شﻮﻣﺎﺧ"
+        },
+        {
+            "key":"back",
+            "value":"ﺖﺸﮔﺯﺎﺑ"
+        },
+        {
+            "key":"gameOverMSG",
+            "value":"ﺪﺷ مﺎﻤﺗ یﺯﺎﺑ"
+        },
+        {
+            "key":"scoreLabel",
+            "value":"زﺎﯿﺘﻣﺍ"
+        },
+        {
+            "key":"coinLabel",
+            "value":"ﻪﮑﺳ"
+        },
+        {
+            "key":"pause",
+            "value":"ﻒﻗﻮﺗ"
+        },
+        {
+            "key":"resume",
+            "value":"ﯼﺯﺎﺑ ﯼ ﻪﻣﺍﺩﺍ"
+        },
+        {
+            "key":"reStart",
+            "value":"ﺩﺪﺠﻣ ﻉﻭﺮﺷ"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "items":
+    [
+        {
+            "key":"totalCoinLabel",
+            "value":"total coin"
+        },
+        {
+            "key":"highScoreLabel",
+            "value":"high score"
+        },
+        {
+            "key":"soundLabel",
+            "value":"sound"
+        },
+        {
+            "key":"on",
+            "value":"ON"
+        },
+        {
+            "key":"exit",
+            "value":"exit"
+        },
+        {
+            "key":"off",
+            "value":"OFF"
+        },
+        {
+            "key":"back",
+            "value":"back"
+        },
+        {
+            "key":"gameOverMSG",
+            "value":"game over"
+        },
+        {
+            "key":"resume",
+            "value":"Resume"
+        },
+        {
+            "key":"reStart",
+            "value":"ReStart"
+        },
+        {
+            "key":"setting",
+            "value":"Setting"
+        },
+        {
+            "key":"quit",
+            "value":"quit the game"
+        },
+        {
+            "key":"start",
+            "value":"Start"
+        },
+        {
+            "key":"languageLabel",
+            "value":"language"
+        },
+        {
+            "key":"scoreLabel",
+            "value":"score"
+        },
+        {
+            "key":"coinLabel",
+            "value":"coin"
+        },
+        {
+            "key":"pause",
+            "value":"pause"
+        }
+    ]
+}
